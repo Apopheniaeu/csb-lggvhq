@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://apopheniaeu.github.io/csb-lggvhq/static/css/main.9f2b2518.chunk.css",
+    "main.js": "https://apopheniaeu.github.io/csb-lggvhq/static/js/main.b2c83d58.chunk.js",
+    "main.js.map": "https://apopheniaeu.github.io/csb-lggvhq/static/js/main.b2c83d58.chunk.js.map",
+    "runtime-main.js": "https://apopheniaeu.github.io/csb-lggvhq/static/js/runtime-main.8fb897bc.js",
+    "runtime-main.js.map": "https://apopheniaeu.github.io/csb-lggvhq/static/js/runtime-main.8fb897bc.js.map",
+    "static/js/2.45968650.chunk.js": "https://apopheniaeu.github.io/csb-lggvhq/static/js/2.45968650.chunk.js",
+    "static/js/2.45968650.chunk.js.map": "https://apopheniaeu.github.io/csb-lggvhq/static/js/2.45968650.chunk.js.map",
+    "index.html": "https://apopheniaeu.github.io/csb-lggvhq/index.html",
+    "static/css/main.9f2b2518.chunk.css.map": "https://apopheniaeu.github.io/csb-lggvhq/static/css/main.9f2b2518.chunk.css.map",
+    "static/js/2.45968650.chunk.js.LICENSE.txt": "https://apopheniaeu.github.io/csb-lggvhq/static/js/2.45968650.chunk.js.LICENSE.txt",
+    "static/media/styles.css": "https://apopheniaeu.github.io/csb-lggvhq/static/media/EurocatVF.abef3359.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8fb897bc.js",
+    "static/js/2.45968650.chunk.js",
+    "static/css/main.9f2b2518.chunk.css",
+    "static/js/main.b2c83d58.chunk.js"
+  ]
+}
